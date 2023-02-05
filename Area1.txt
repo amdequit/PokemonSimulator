@@ -1,0 +1,5 @@
+n w n p n
+i p w n c
+s n p i i
+w c n w i
+n w n p f
